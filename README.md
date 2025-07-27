@@ -3,26 +3,40 @@
 A powerful hybrid log classification pipeline using regex, BERT-based embeddings, and LLM fallback — built for production log intelligence.
 
 ---
-#  Applications 
-- Security & Compliance Monitoring
-Industry: Finance, Healthcare, Government
-Use Case: Detect anomalous user behavior, unauthorized access patterns, or deprecated API usage.
+## Business Applications
 
-- IT Operations & Incident Response
-Industry: SaaS, Telecom, Cloud Infrastructure
-Use Case: Automate triaging of logs to classify performance issues, workflow breakdowns, or deployment anomalies.
+Unlock real-world value across multiple industries with this intelligent log classification microservice:
 
-- Business Intelligence & Root Cause Analysis
-Industry: Retail, Logistics, E-commerce
-Use Case: Extract structured insights from noisy logs for trend analysis.
+---
 
-- Smart Observability in AIOps Pipelines
-Industry: DevOps Tooling, Monitoring Platforms
-Use Case: Embed the microservice in observability platforms like Datadog, Splunk, or Prometheus stacks.
+### 🔐 Security & Compliance Monitoring  
+**Industry:** Finance, Healthcare, Government  
+**Use Case:** Detect anomalous user behavior, unauthorized access patterns, or deprecated API usage.
 
-- Legacy System Modernization
-Industry: Enterprises with Mainframes, Old CRMs
-Use Case: Enhance insight into logs from legacy systems like LegacyCRM by interpreting messages modern tools cannot.
+---
+
+### ⚙️ IT Operations & Incident Response  
+**Industry:** SaaS, Telecom, Cloud Infrastructure  
+**Use Case:** Automate triaging of logs to classify performance issues, workflow breakdowns, or deployment anomalies.
+
+---
+
+### 📊 Business Intelligence & Root Cause Analysis  
+**Industry:** Retail, Logistics, E-commerce  
+**Use Case:** Extract structured insights from noisy logs for trend analysis and operational optimization.
+
+---
+
+### 🧠 Smart Observability in AIOps Pipelines  
+**Industry:** DevOps Tooling, Monitoring Platforms  
+**Use Case:** Embed the microservice in platforms like Datadog, Splunk, or Prometheus to enable semantic alerting and anomaly classification.
+
+---
+
+### 🏛️ Legacy System Modernization  
+**Industry:** Enterprises with Mainframes, Old CRMs  
+**Use Case:** Improve visibility into legacy logs (e.g., from `LegacyCRM`) that modern systems struggle to interpret.
+
 
 ---
 
