@@ -3,6 +3,28 @@
 A powerful hybrid log classification pipeline using regex, BERT-based embeddings, and LLM fallback — built for production log intelligence.
 
 ---
+#  Applications 
+- Security & Compliance Monitoring
+Industry: Finance, Healthcare, Government
+Use Case: Detect anomalous user behavior, unauthorized access patterns, or deprecated API usage.
+
+- IT Operations & Incident Response
+Industry: SaaS, Telecom, Cloud Infrastructure
+Use Case: Automate triaging of logs to classify performance issues, workflow breakdowns, or deployment anomalies.
+
+- Business Intelligence & Root Cause Analysis
+Industry: Retail, Logistics, E-commerce
+Use Case: Extract structured insights from noisy logs for trend analysis.
+
+- Smart Observability in AIOps Pipelines
+Industry: DevOps Tooling, Monitoring Platforms
+Use Case: Embed the microservice in observability platforms like Datadog, Splunk, or Prometheus stacks.
+
+- Legacy System Modernization
+Industry: Enterprises with Mainframes, Old CRMs
+Use Case: Enhance insight into logs from legacy systems like LegacyCRM by interpreting messages modern tools cannot.
+
+---
 
 ##  Features
 
@@ -21,8 +43,8 @@ Ensure Python 3.9 or higher is installed.
 
 ```bash
 git clone https://github.com/SteveParadox/Logify-A-Smart-Server-Log-Classification-Microservice.git
-cd log-classifier
 pip install -r requirements.txt
+cd app
 ```
 
 Create a `.env` file with your Groq API key:
