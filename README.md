@@ -20,7 +20,7 @@ A powerful hybrid log classification pipeline using regex, BERT-based embeddings
 Ensure Python 3.9 or higher is installed.
 
 ```bash
-git clone https://github.com/your-username/log-classifier.git
+git clone https://github.com/SteveParadox/Logify-A-Smart-Server-Log-Classification-Microservice.git
 cd log-classifier
 pip install -r requirements.txt
 ```
